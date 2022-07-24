@@ -1,11 +1,11 @@
 [package]
-name = "app"
+name = "taurify"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+description = "A Tauri & Svelte Spotify Client"
+authors = ["d3rpp"]
 license = ""
-repository = ""
-default-run = "app"
+repository = "https://gitlab.com/d3rpp/taurify"
+default-run = "taurify"
 edition = "2021"
 rust-version = "1.57"
 
