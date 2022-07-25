@@ -1,10 +1,7 @@
 <div align="center">
 	<img src="./assets/logo.svg" alt="Possible Taurify Logo">
-</div>
-
-# Taurify
-
-<div align="center">
+	<br /><br /><br />
+	<h1>Taurify</h1>
 	<strong>WORK IN PROGRESS</strong>
 	<br /><br /><br />
 </div>
