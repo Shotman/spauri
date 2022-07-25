@@ -45,6 +45,10 @@ mod mpris;
 /// - [ ] Wrap in Tokio Runtime for multithreaded goodness
 mod config;
 
+/// # Commands
+/// handles talking to the front-end and managing the state of the rest of the application
+mod commands;
+
 /// # Entrypoint
 /// Run the program
 /// 
