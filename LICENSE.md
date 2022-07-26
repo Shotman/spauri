@@ -3,7 +3,7 @@
 <!-- Replace with your name and a public facing email -->
 Copyright &copy; [Hudson Curren (d3rpp)](mailto:info@d3rpp.dev), 2022
 
-The D3 License is a license that permits personal (non-commercial) use of software.
+The D3 License is a license that permits personal (non-commercial) use of this software.
 
 This means that you may:
 
