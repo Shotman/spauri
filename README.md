@@ -23,12 +23,39 @@ Im going to need to do this the `H A C C E R M A N` way by using the private API
 -   [ ] Search Albums
 -   [ ] View Albums
 
+### Artists
+
+-   [ ] Search Artists
+-   [ ] View Artists
+
+### Playlists
+
+-   [ ] Show playlists
+-   [ ] Search through playlists
+-   [ ] Play Playlist Songs
+-   [ ] Edit Playlists
+-   [ ] Create Playlists
+
 ### Songs
 
 -   [ ] Fetch Song Metadata
 -   [ ] Play Songs
     -   [ ] Get `librespot` working
+-   [ ] View Song lyrics (may not be possible)
+
+### Users
+
+-   [ ] View User Profile
+-   [ ] Change User Playlist Publicity
+-   [ ] Change User Playlists
 
 ### Application
 
 -   [ ] Run as background so background playback can be done.
+    -   [ ] Death is not an option here, i need to either let it run or daemonise it
+        -   [ ] Daemonising hard tho
+        -   [ ] So i just let it run in a child thread?
+    -   [ ] How tf do you do that?
+-	[ ] Exist
+
+That's a decent list ngl.
