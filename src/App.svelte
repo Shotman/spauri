@@ -1,33 +1,23 @@
 <script lang="ts">
-	// @ts-ignore
-	import Logo from './assets/logo.min.png?webp&h=200';
+	import LogoTao from './assets/logo_tao.svg';
+	import LogoWry from './assets/logo_wry.svg';
 </script>
 
 <main>
-	<img src={Logo} alt="bruh">
-	<h1>Hello World!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<img src={LogoTao} alt="Tao" />
+	<img src={LogoWry} alt="Wry" />
 </main>
 
-<style>
+<style lang="scss">
 	main {
-		text-align: center;
-		padding: 1em;
-		max-width: 240px;
-		margin: 0 auto;
-	}
+		width: 100vw;
+		height: 100vh;
 
-	h1 {
-		text-align: center;
-		color: #ff3e00;
-		text-transform: uppercase;
-		font-size: 4em;
-		font-weight: 100;
-	}
+		display: grid;
+		place-content: center;
 
-	@media (min-width: 640px) {
-		main {
-			max-width: none;
+		img {
+			width: Clamp(200px, 50vh, 500px);
 		}
 	}
 </style>
