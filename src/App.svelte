@@ -1,5 +1,6 @@
 <script lang="ts">
-	import Logo from './assets/logo.min.png?webp';
+	// @ts-ignore
+	import Logo from './assets/logo.min.png?webp&h=200';
 </script>
 
 <main>

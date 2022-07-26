@@ -1,6 +1,20 @@
 {
   "name": "spauri",
-  "version": "1.0.0",
+  "author": {
+    "name": "Hudson Curren",
+    "email": "info@d3rpp.dev",
+    "url": "https://d3rpp.dev"
+  },
+  "description": "[W.I.P.] A Tauri + Svelte Cross-Platform Spotify Client",
+  "homepage": "https://github.com/d3rpp/spauri",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3rpp/spauri"
+  },
+  "icon": "./src-tauri/icons/128x128.png",
+  "license": "./LICENSE.md",
+  "readme": "./README.md",
+  "version": "0.0.1-alpha",
   "private": true,
   "scripts": {
     "build": "vite build",

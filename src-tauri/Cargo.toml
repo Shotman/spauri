@@ -3,11 +3,13 @@ name = "spauri"
 version = "0.1.0"
 description = "[W.I.P.] A Tauri + Svelte Cross-Platform Spotify Client"
 authors = ["d3rpp"]
-license = ""
+keywords = ["Music", "Spotify"]
+categories = ["multimedia","multimedia::audio", "api-bindings"]
+license-file = "../LICENSE.md"
 repository = "https://github.com/d3rpp/spauri"
 default-run = "spauri"
 edition = "2021"
-rust-version = "1.57"
+# rust-version = "1.57"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
