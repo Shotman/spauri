@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "taurify",
+    "productName": "spauri",
     "version": "0.1.0"
   },
   "tauri": {
@@ -37,7 +37,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "dev.d3rpp.taurify",
+      "identifier": "dev.d3rpp.spauri",
       "longDescription": "",
       "macOS": {
         "entitlements": null,

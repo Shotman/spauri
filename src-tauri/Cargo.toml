@@ -1,11 +1,11 @@
 [package]
-name = "taurify"
+name = "spauri"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+description = "[W.I.P.] A Tauri + Svelte Cross-Platform Spotify Client"
+authors = ["d3rpp"]
 license = ""
-repository = ""
-default-run = "taurify"
+repository = "https://github.com/d3rpp/spauri"
+default-run = "spauri"
 edition = "2021"
 rust-version = "1.57"
 

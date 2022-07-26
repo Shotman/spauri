@@ -2295,6 +2295,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "spauri"
+version = "0.1.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "tauri",
+ "tauri-build",
+]
+
+[[package]]
 name = "stable_deref_trait"
 version = "1.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2602,16 +2612,6 @@ dependencies = [
  "url",
  "walkdir",
  "windows 0.37.0",
-]
-
-[[package]]
-name = "taurify"
-version = "0.1.0"
-dependencies = [
- "serde",
- "serde_json",
- "tauri",
- "tauri-build",
 ]
 
 [[package]]
