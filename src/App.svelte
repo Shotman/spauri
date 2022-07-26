@@ -1,8 +1,9 @@
 <script lang="ts">
-
+	import Logo from './assets/logo.min.png?webp';
 </script>
 
 <main>
+	<img src={Logo} alt="bruh">
 	<h1>Hello World!</h1>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 </main>

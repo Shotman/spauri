@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./assets/logo.min.svg" width="300px" height="300px" alt="Possible Taurify Logo" title="Possible Taurify Logo">
+	<img src="./src/assets/logo.min.svg" width="300px" height="300px" alt="Possible Taurify Logo" title="Possible Taurify Logo">
 	<br /><br /><br />
 	<h1>Taurify</h1>
 	<strong>WORK IN PROGRESS</strong>

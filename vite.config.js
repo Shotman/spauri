@@ -1,9 +1,11 @@
 import { defineConfig } from 'vite';
 import { svelte } from '@sveltejs/vite-plugin-svelte';
+import { imagetools } from 'vite-imagetools';
 import preprocess from 'svelte-preprocess';
 
 export default defineConfig({
 	plugins: [
+		imagetools(),
 		svelte({
 			preprocess: preprocess()
 		})
@@ -28,7 +30,7 @@ export default defineConfig({
 
 		// don't minify for debug builds
 		minify: !process.env.TAURI_DEBUG ? 'esbuild' : false,
-		
+
 		// produce sourcemaps for debug builds
 		sourcemap: !!process.env.TAURI_DEBUG,
 	}
