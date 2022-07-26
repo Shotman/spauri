@@ -75,3 +75,19 @@ That's a decent list ngl.
 	<h1>I can't wait to see how long it taked to get a Cease and Desist from Spotify lol, especially considering the logo</h1>
 	<br /><br /><br />
 </div>
+
+
+# OS Support
+
+<!-- 
+❌
+✅
+ -->
+
+| Operating System | GUI  | Playback |
+| :--------------: | ---- | -------- |
+| Linux	           |  ❌  |    ❌    |
+| Mac OS           |  ❌  |    ❌    |
+| Windows          |  ❌  |    ❌    |
+
+what did you expect?
