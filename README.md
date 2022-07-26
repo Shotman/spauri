@@ -84,10 +84,10 @@ That's a decent list ngl.
 ✅
  -->
 
-| Operating System | GUI  | Playback |
-| :--------------: | ---- | -------- |
-| Linux	           |  ❌  |    ❌    |
-| Mac OS           |  ❌  |    ❌    |
-| Windows          |  ❌  |    ❌    |
+| Operating System | GUI   | Playback |
+| :--------------: | :---: | :------: |
+| Linux	           |  ❌   |    ❌    |
+| Mac OS           |  ❌   |    ❌    |
+| Windows          |  ❌   |    ❌    |
 
 what did you expect?
