@@ -64,10 +64,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
+        "height": 640,
         "resizable": true,
         "title": "Taurify",
-        "width": 800
+        "width": 1280
       }
     ]
   }

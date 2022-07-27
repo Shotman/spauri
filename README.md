@@ -1,6 +1,8 @@
 <div align="center">
-	<img src="./src/assets/logo_tao.svg" width="300px" height="300px" alt="Possible Taurify Logo" title="Possible Taurify Logo">
-	<img src="./src/assets/logo_wry.svg" width="300px" height="300px" alt="Possible Taurify Logo" title="Possible Taurify Logo">
+	<div style="display: flex; justify-content: center; align-items: center">
+		<img src="./src/assets/logo_tao.svg" style="width: min(45%, 300px)" alt="Possible Taurify Logo" title="Possible Taurify Logo">
+		<img src="./src/assets/logo_wry.svg" style="width: min(45%, 300px)" alt="Possible Taurify Logo" title="Possible Taurify Logo">
+	</div>
 	<br /><br /><br />
 	<h1>Spauri</h1>
 	<strong>WORK IN PROGRESS</strong>
