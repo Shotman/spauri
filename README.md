@@ -75,7 +75,7 @@ That's a decent list ngl.
 
 <div align="center">
 	<br /><br /><br />
-	<h1>I can't wait to see how long it taked to get a Cease and Desist from Spotify lol, especially considering the logo</h1>
+	<h1>I can't wait to see how long it takes to get a Cease and Desist from Spotify lol, especially considering the logo</h1>
 	<br /><br /><br />
 </div>
 
