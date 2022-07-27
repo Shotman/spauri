@@ -3,7 +3,7 @@
 		<img src="./src/assets/logo_tao.svg" style="width: min(45%, 300px)" width="300px" alt="Possible Taurify Logo" title="Possible Taurify Logo">
 		<img src="./src/assets/logo_wry.svg" style="width: min(45%, 300px)" width="300px" alt="Possible Taurify Logo" title="Possible Taurify Logo">
 	</div>
-	<br /><br /><br />
+	<br />
 	<h1>Spauri</h1>
 	<strong>WORK IN PROGRESS</strong>
 	<br /><br /><br />
