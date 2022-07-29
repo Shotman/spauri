@@ -15,7 +15,7 @@ This may mostly be useless since the Spotify Developer Terms forbid the use of t
 
 Im going to need to do this the `H A C C E R M A N` way by using the private API because I'm cringe enough to care about laws (ish).
 
-**This is will only every work for Spotify Premium accounts due to technical limitations, if any proposed changes contain code that adds the use of:**
+**This is will only every work for Spotify Premium accounts due to legal limitations, if any proposed changes contain code that adds the use of:**
 
 - **Free Accounts**
 - **Advertising**
