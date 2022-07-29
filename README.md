@@ -7,6 +7,7 @@
 	<h1>Spauri</h1>
 	<strong>WORK IN PROGRESS</strong>
 	<br /><br /><br />
+	<strong>THIS WORK IS NOT AFFILIATED WITH NOR ENDORSED BY SPOTIFY</strong>
 </div>
 
 This may mostly be useless since the Spotify Developer Terms forbid the use of their API for the purposes of creating derivative works, idk what they mean by "derivative", does it mean making a new service that uses spotify in the background? Or just different spotify clients?
